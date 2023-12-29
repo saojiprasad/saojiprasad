@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prasad Saoji</h1>
 <h3 align="center">A passionate Full Stack developer </h3>
 
-<div>👋 Hi, I’m Prasad Saoji</div>
+
 <div>👀 I’m interested in Web Development.</div>
 <div>💞️ I’m looking to collaborate on Big MNCs</div>
 
