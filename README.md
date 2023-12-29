@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack developer </h3>
 
 
-<div>👀 I’m interested in Web Development.</div>
+
 <div>💞️ I’m looking to collaborate on Big MNCs</div>
 
 - 📫 How to reach me **saojiprasad13@gmail.com**
